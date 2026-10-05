@@ -53,3 +53,7 @@ Aqui está a lista de tudo o que o professor pediu para este exercício:
 - [x] Escrever o título principal no topo da página.
 - [ ] Colocar uma imagem bonita para o projeto.
 - [ ] Colocar o link que vai para a internet.
+
+##  Autor
+
+* **Desenvolvedor:** Jean — saiba mais sobre este e outros projetos de criação de conteudo visitando o meu [Perfil do GitHub](https://github.com).
