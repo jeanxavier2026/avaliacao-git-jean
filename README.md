@@ -1,9 +1,10 @@
-
+ontrei
 #  Lista de Contactos do Jean
 
 Este projeto é um sistema simples que serve para guardar e organizar nomes 
 e números de telefone no computador. Ele ajuda a encontrar os contactos 
 mais rapidamente e evita que fiquem nomes repetidos na lista.
+![imagem de telefone](2.jpg)
 
 ##  Programas Usados
 
